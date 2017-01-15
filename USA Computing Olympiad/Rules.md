@@ -1,3 +1,4 @@
+# Rules
 Eligibility and Participation
 
 All are welcome to participate in USACO contests and training. All new participants start out in the bronze division, and those who score particularly well in their current division will be promoted to the next division for future contests (promotion criteria varies per contest, since every contest is different). Please use the same login ID for all contests so we can keep track of everyone's progress. Official results will generally be reported only for high-school (pre-college) students; visitors/observers/"for fun" entries will be scored and reported separately. Only pre-college students in the USA are eligible for selection as finalists to attend the USACO training camp and to contend for membership on the USA IOI team.
