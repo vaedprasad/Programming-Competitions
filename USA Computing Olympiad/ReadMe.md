@@ -1,3 +1,4 @@
+# USA Computing Olympiad
 The contest is available in four divisions: bronze, silver, gold, and platinum. All returning participants start out in their former divisions, and new participants start out in the bronze division. The contest is for individuals only, not teams.
 
 Participants who score particularly well in their current division will be promoted to the next division for future contests (promotion criteria is announced at the end of the contest and varies on a per-contest basis, since every contest is different). Promotion within a contest is also possible, if you achieve a perfect score. If you are promoted within a contest, you will be able to take higher-level contests with a full clock (no penalty based on the time already spent on ealier contests).
